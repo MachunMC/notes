@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "a4a9f2af4f7345d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a9252fd5ae7562a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "程序员的自我修养.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de62f3339e08be73",
+    "type": "split",
+    "children": [
+      {
+        "id": "492f14c5e40a689d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be18ee92645da73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3c7484725cf023a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17796dac7525f21e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9ecc66aaf8041aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48278f18889c8e0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "程序员的自我修养.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a9252fd5ae7562a",
+  "lastOpenFiles": [
+    "程序员的自我修养.md",
+    "编程精粹-编写高质量C代码.md",
+    "杂记.md",
+    "学习资源.md",
+    "软考笔记.md"
+  ]
+}
